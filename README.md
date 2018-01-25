@@ -1,3 +1,3 @@
 # TC39 logo
 
-![](logo.png)
+![](TC39.png)
